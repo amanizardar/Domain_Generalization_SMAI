@@ -1,0 +1,1 @@
+git remote add Domain_Generalization_SMAI git@github.com:amanizardar/Domain_Generalization_SMAI.git
